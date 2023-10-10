@@ -1,0 +1,3 @@
+AnnData Formatting Guidelines: https://docs.google.com/document/d/1NBZlJoohMZbvDGagsHBY__-5v0bc5FEOJg-5HSmjBX8/edit?usp=sharing
+
+Metadata Spreadsheet: https://docs.google.com/spreadsheets/d/1XkkfjzbE14a0ni6J-fnTbi64m5TJ19v_1wd113f65xg/edit#gid=1997670836
